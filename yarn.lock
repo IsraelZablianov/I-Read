@@ -17,9 +17,9 @@
   version "19.2.3"
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-19.2.3.tgz#61748040e8589a891dfc2ec1d16a2dd74482980e"
 
-"@types/react-native@^0.43.9":
-  version "0.43.11"
-  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.43.11.tgz#cc39713dce3c7d147eb447c193c6132362682d25"
+"@types/react-native@^0.44":
+  version "0.44.19"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.44.19.tgz#e89317e953cfa6594f9c250b74248aa494ccc12f"
   dependencies:
     "@types/react" "*"
 
