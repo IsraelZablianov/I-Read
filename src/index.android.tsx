@@ -6,13 +6,12 @@
 
 import * as React from 'react';
 import {
-  AppRegistry,
   StyleSheet,
   Text,
   View
 } from 'react-native';
 
-export default class MyAwesomeProject extends React.Component<object, object> {
+export default class IRead extends React.Component<object, object> {
   render() {
     return (
       <View style={styles.container}>
@@ -49,5 +48,3 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
 });
-
-AppRegistry.registerComponent('MyAwesomeProject', () => MyAwesomeProject);

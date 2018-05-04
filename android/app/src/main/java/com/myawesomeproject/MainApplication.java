@@ -1,4 +1,4 @@
-package com.myawesomeproject;
+package com.iread;
 
 import android.app.Application;
 

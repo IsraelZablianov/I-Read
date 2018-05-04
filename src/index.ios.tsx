@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class MyAwesomeProject extends React.Component<object, object> {
+export default class IRead extends React.Component<object, object> {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('MyAwesomeProject', () => MyAwesomeProject);
+AppRegistry.registerComponent('IRead', () => IRead);
