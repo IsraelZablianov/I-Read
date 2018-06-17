@@ -10,7 +10,7 @@ interface State {
   enthusiasmLevel: number
 }
 
-export class Hello extends React.Component<Props, State> {
+export default class Hello extends React.Component<Props, State> {
   constructor(props: Props) {
     super(props)
 
